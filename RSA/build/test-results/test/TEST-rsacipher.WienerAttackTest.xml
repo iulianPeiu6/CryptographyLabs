@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="rsacipher.WienerAttackTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-05-14T15:17:12" hostname="DESKTOP-0GP9D5D" time="0.27">
+  <properties/>
+  <testcase name="testWienerAttack1()" classname="rsacipher.WienerAttackTest" time="0.027"/>
+  <testcase name="testWienerAttack2()" classname="rsacipher.WienerAttackTest" time="0.043"/>
+  <testcase name="testWienerAttack3()" classname="rsacipher.WienerAttackTest" time="0.198"/>
+  <system-out><![CDATA[569
+65539
+20536757012773509689629316926801780887727844640194283367315040740196870700071
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
