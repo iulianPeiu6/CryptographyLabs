@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="generators.BBSGeneratorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-03-19T16:09:58" hostname="DESKTOP-0GP9D5D" time="3.81">
+  <properties/>
+  <testcase name="Uniform bit string" classname="generators.BBSGeneratorTest" time="3.81"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
